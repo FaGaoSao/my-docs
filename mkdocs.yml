@@ -1,6 +1,6 @@
 site_name: 我的技术文档
-site_url: https://YOUR-USERNAME.github.io/my-docs/
-repo_url: https://github.com/YOUR-USERNAME/my-docs
+site_url: https://FaGaoSao.github.io/my-docs/
+repo_url: https://github.com/FaGaoSao/my-docs
 theme:
   name: material
   language: zh
